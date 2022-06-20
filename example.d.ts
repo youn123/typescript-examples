@@ -1,1 +1,1 @@
-declare foo: (name: string) => string
+declare let foo: (name: string) => string
