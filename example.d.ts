@@ -1,0 +1,1 @@
+declare foo: (name: string) => string
