@@ -1,0 +1,3 @@
+interface Locals {
+  foo: string;
+}
