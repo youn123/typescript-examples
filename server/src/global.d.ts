@@ -1,3 +1,0 @@
-interface Locals {
-  foo: string;
-}
